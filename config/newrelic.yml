@@ -12,7 +12,7 @@
 
 common: &default_settings
   # Required license key associated with your New Relic account.
-  license_key: '81bc1a10b7decc2d98afc5b34b3c2653FFFFNRAL'
+  license_key: ''
   host: staging-collector.newrelic.com
   
   # Your application name. Renaming here affects where data displays in New
