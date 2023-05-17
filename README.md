@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This Ruby app is for Browser team testing.
 
-Things you may want to cover:
+* Ruby version - 3.1.2
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
+* Rails - 7.0.4
 
 * Deployment instructions
 
-* ...
+1. Clone repo
+2. run `bundle install`
+3. Start server by running `rails s`
+4. Visit localhost:3000
